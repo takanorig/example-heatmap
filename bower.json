@@ -17,6 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "heatmap.js-amd": "*"
+    "heatmap.js-amd": "*",
+    "jquery": "1.11.3"
   }
 }
